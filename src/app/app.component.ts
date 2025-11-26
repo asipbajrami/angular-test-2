@@ -9,6 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css',
 })
 export class AppComponent {
-  title = 'application with Angular 17 V2';
+  title = 'application with Angular 17 V3';
 }
+
 
